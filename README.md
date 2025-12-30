@@ -18,7 +18,7 @@ Forecasts and data outputs are published transparently, with an emphasis on clar
 
 **David — Founder & Forecaster**  
 Based in Atlanta, Georgia, David began forecasting elections in 2022 by combining interests in computer science and politics. He develops and maintains MapWisePolitics forecasting models, data workflows, and the website.  
-GitHub: **@daveslosttt**
+GitHub: **[@daveslosttt](https://github.com/daveslosttt)**
 
 **Chris — Advisor & Visualizer**  
 Based in Dallas, Texas, Chris leads election visualization projects for MapWisePolitics. His work focuses on presenting complex electoral data through clear visual formats, with an interest in GIS mapping and political analysis.
